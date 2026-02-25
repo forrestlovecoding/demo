@@ -6,4 +6,4 @@
 -前端：React + TypeScript
 -画布：HTML5 Canvas
 -后端：Node.js + Express
--AI 集成：OpenAI Vision API
+-AI 集成：豆包AI 图像识别
